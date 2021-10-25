@@ -1,0 +1,19 @@
+footer{
+    /* footer main properties */
+    background-color: black;
+    color: wheat; /* text color */
+    font-size: 20px;
+
+    /* add width and height what ever you like */
+    width: 100%;
+    height: 120px;
+
+    /* left | right | center use one of those */
+    text-align: center;
+
+    /* dont use this on your web i put this for 
+    show this div must be in the bottom of your site */
+    /* Warning: Don't use this on your website */
+    position: absolute;
+    bottom: 0;
+}
